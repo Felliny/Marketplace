@@ -4,10 +4,10 @@ CRUD de um marketplace simples.
 
 ## Equipe
 
-Débora Cristina; 1110482212031 <br>
-Matheus França; RA 1110482212001 <br>
-David Augusto; RA 1110482212013 <br>
-Luan Camilo Nogueira; RA 1110482212016 <br>
+Débora Cristina; https://github.com/DeboraCristina
+Matheus França; https://github.com/Matheus-Franca-x
+David Augusto; https://github.com/David-Augusto-Fagoni
+Luan Camilo Nogueira; 
 
 ----
 
