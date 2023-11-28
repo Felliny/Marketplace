@@ -5,8 +5,11 @@ CRUD de um marketplace simples.
 ## Equipe
 
 Débora Cristina; https://github.com/DeboraCristina
+
 Matheus França; https://github.com/Matheus-Franca-x
+
 David Augusto; https://github.com/David-Augusto-Fagoni
+
 Luan Camilo Nogueira; 
 
 ----
