@@ -48,7 +48,7 @@ junções de tabelas;
 
 ----
 
-## Screeshots
+## Screenshots
 
 <img src="Img's README\@BD-login.png" width="400" height="268">
 
